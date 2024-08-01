@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "906297067880",
+    "project_id": "tweet-app-a825e",
+    "storage_bucket": "tweet-app-a825e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906297067880:android:79197d98c1c80d02cc6edd",
+        "android_client_info": {
+          "package_name": "com.example.social_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-xD0o3vfcL9mqgJkvoh7SaVt32f9Yh0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
