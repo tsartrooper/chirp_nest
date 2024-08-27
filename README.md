@@ -18,7 +18,7 @@ Twitter is a social networking site that allows users to share, post, like  and 
 
 # **High Level Design**
 
-![][image1]
+![alt text](https://github.com/tsartrooper/chirp_nest/blob/main/images/social_app_architecture.png?raw=true)
 
 **Image Storage(Cloud Storage)**
 
